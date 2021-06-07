@@ -1,4 +1,3 @@
-#!/usr/bin/python
 #Moves all files used for application installs in the download folder to a seperate folder.
 
 import shutil, os, send2trash
