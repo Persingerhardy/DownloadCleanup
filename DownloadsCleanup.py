@@ -19,7 +19,6 @@ except FileExistsError:
     pass
 
 installPath = Path(originPath / 'InstallerFiles')
-docPath = Path(originPath / 'Docs')
 
 countMoved = 0
 countDelete = 0
